@@ -16,8 +16,6 @@ body, h2, a, p, footer{
 
 .wrapper{
     text-align: center;
-    align-items: center;
-    justify-content: center;
     max-width: 320px;
     background-color: white;
     transition: 0.5s;
