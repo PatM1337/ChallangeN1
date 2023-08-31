@@ -55,4 +55,4 @@ Do more projects and learn more from HTML and CSS and after i feel more conforta
 
 ## Acknowledgments
 
-I would like to thank my close friend @Dominik221 for explaining some CSS mistakes i made.
+I would like to thank my very good friend @Dominik221 for explaining some CSS mistakes i made.
