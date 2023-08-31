@@ -20,8 +20,6 @@ body, h2, a, p, footer{
     justify-content: center;
     max-width: 320px;
     background-color: white;
-    display: flex;
-    flex-flow: column;
     transition: 0.5s;
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
